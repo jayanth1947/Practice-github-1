@@ -6,4 +6,6 @@ Here you can collab with new people and can make changes in this file.
 
 By the by you can also use the various advantages of the tools.
 
+It is the place to integrate the code with the others and releases the new features.
+
 Thank You!
