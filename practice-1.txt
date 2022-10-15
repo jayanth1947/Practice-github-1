@@ -4,4 +4,6 @@ Welcome to new World of Git
 
 Here you can collab with new people and can make changes in this file.
 
+By the by you can also use the various advantages of the tools.
+
 Thank You!
